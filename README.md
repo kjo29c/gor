@@ -1,2 +1,1 @@
-# gor
-gor
+Playing with consensus with go
